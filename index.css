@@ -179,7 +179,7 @@ a:active {
     border: none;
     background: transparent;
     border-bottom: 1px solid #8fbc8f;
-    color: snow;
+    color: #ddd;
     padding: 15px 0 15px;
     outline: none;
 }
